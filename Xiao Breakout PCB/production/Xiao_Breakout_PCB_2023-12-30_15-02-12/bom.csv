@@ -1,6 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-D1,SOP65P210X110-6N,1,LM66100DCKR,
-"H1, H2",MountingHole_3.2mm_M3_DIN965_Pad,2,MountingHole_Pad,
-J1,TerminalBlock_bornier-2_P5.08mm,1,IN,
-R1,0603,1,10k,
-U1,MOUDLE14P-SMD-2.54-21X17.8MM,1,MOUDLE-SEEEDUINO-XIAO-ESP32S3,
